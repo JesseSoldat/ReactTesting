@@ -59,7 +59,8 @@ class App extends Component {
                 <button className='ui button'
                       type='submit'
                       disabled={submitDisabled}
-                > Add Item
+                >
+                      Add item
                 </button>
                 </form>
               </th>
